@@ -5,3 +5,4 @@ Git, Terraform et Ansible.
 
 ## Observations
 Test de modification du README.
+Version branche A
