@@ -2,3 +2,6 @@
 
 Travaux pratiques Infrastructure as Code.
 Git, Terraform et Ansible.
+
+## Observations
+Test de modification du README.
